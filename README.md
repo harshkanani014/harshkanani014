@@ -1,10 +1,10 @@
 <span align="center">
- <h1>Hi there, I am Jainam 👨‍💻 </h1>
+ <h1>Hi there, I am Harsh 👨‍💻 </h1>
 
-[![](https://img.icons8.com/material-two-tone/32/000000/instagram-new.png)](https://www.instagram.com/jainam_here_/)
-[![](https://img.icons8.com/material-two-tone/32/000000/linkedin.png)](https://linkedin.com/in/jainam-desai)
-[![](https://img.icons8.com/windows/32/000000/hackerrank.png)](https://www.hackerrank.com/jainamd)
-[![](https://img.icons8.com/ios/32/000000/resume-website.png)](https://th3c0d3br34ker.github.io)
+[![](https://img.icons8.com/material-two-tone/32/000000/instagram-new.png)](https://www.instagram.com/harsh_kanani23/)
+[![](https://img.icons8.com/material-two-tone/32/000000/linkedin.png)](https://www.linkedin.com/in/harsh-kanani-69a45818b/)
+[![](https://img.icons8.com/windows/32/000000/hackerrank.png)](https://www.hackerrank.com/harshk172)
+[![](https://img.icons8.com/ios/32/000000/resume-website.png)](https://harshkanani014.github.io/)
 
 </span>
 
@@ -13,17 +13,12 @@
 <div>
 
 - 🔭 I’m *currently* **sleeping** 😴 or *working* on my **laptop** 👨‍💻
-- 🌱 I’m currently learning ReactJS, GraphQL.
+- 🌱 I’m currently working on Python Based backend framework and ReactJS
 - 💬 Ask me about anything, anytime 😄
 - 😄 Pronouns: He/Him 😌.
 - ⚡ Fun fact: I am a tea dependent life form.
 
 </div>
-
-**Frameworks and Stack**
-
-![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=for-the-badge&logo=Node.js)
-![React](https://img.shields.io/badge/-React-black?style=for-the-badge&logo=react)
 
 **Languages**
 
